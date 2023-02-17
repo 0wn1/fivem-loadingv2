@@ -2,10 +2,10 @@ fx_version 'cerulean'
 game 'gta5'
 
 files {
-	'index.html',
-	'script.js',
-	'style.css',
-	'assets/*'
+	'/dist/index.html',
+	'/dist/script.js',
+	'/dist/style.css',
+	'/dist/assets/*'
 }
 
 loadscreen {
