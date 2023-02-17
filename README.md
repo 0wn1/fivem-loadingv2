@@ -26,7 +26,7 @@ As suggested, here is version 2.0 of [fivem-loading](https://github.com/0wn1/fiv
 - Keybind Tips Window
 - Animated Logo
 
-##Credits
+## Credits
 - Music Player: [Codepen](https://codepen.io/serversideup/pen/Vwrgoea "Codepen")
 
 ------------
