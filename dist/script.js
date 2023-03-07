@@ -14,7 +14,7 @@ const imagesName = ["image1.png", "image2.png", "image3.png"]; // add here the n
 // Line Break: "Line 1 \n Line 2"
 // Colored: "<a style='color: yellow;'> Text </a>"
 const keybinds = [
-   "<b> LOADING SCREEN </b> \n\n <b>Next/Prev Tips</b>          ‹   › \n <b>Volume Control</b>        ↓   ↑ \n <b>Next/Prev Music</b>     ← → \n <b>Show/Hide Tips</b>        [ J ] \n <b>Show/Hide Player</b>     [ K ] \n <b>Pause Music</b>       Spacebar",
+   "<b> LOADING SCREEN </b> \n\n <b>Prev/Next Tips</b>          ‹   › \n <b>Volume Control</b>        ↓   ↑ \n <b>Next/Prev Music</b>     ← → \n <b>Show/Hide Tips</b>        [ J ] \n <b>Show/Hide Player</b>     [ K ] \n <b>Pause Music</b>       Spacebar",
    "<b> GAME INTERACTION </b> \n\n <b>Keybind1</b> Example \n <b>Keybind2</b> Example \n <b>Keybind3</b> Example \n <b>Keybind4</b> Example \n <b>Keybind5</b> Example",
    "<b> GAME INTERACTION </b> \n\n <b>Keybind6</b> Example \n <b>Keybind7</b> Example \n <b>Keybind8</b> Example \n <b>Keybind9</b> Example \n <b>Keybind10</b> Example",
    "<b> GAME INTERACTION </b> \n\n <b>Keybind11</b> Example \n <b>Keybind12</b> Example \n <b>Keybind13</b> Example \n <b>Keybind14</b> Example \n <b>Keybind15</b> Example",
