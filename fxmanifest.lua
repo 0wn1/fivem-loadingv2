@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
+client_script 'client.lua'
 
 files {
 	'dist/index.html',
@@ -8,9 +9,7 @@ files {
 	'dist/assets/*'
 }
 
-loadscreen {
-	'dist/index.html'
-}
+loadscreen 'dist/index.html'
 
 loadscreen_cursor 'yes'
 loadscreen_manual_shutdown 'yes'
