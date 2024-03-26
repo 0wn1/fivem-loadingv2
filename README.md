@@ -1,5 +1,4 @@
 ## FiveM Loading Screen v2
-[![Preview](https://media.discordapp.net/attachments/1022674122397986827/1075911303547326496/image.png "Preview")](https://streamable.com/yjo8sq "Preview")
 ------------
 **Preview:** [Streamable](https://streamable.com/yjo8sq "Streamable")
 
