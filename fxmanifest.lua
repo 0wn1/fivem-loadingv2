@@ -12,4 +12,4 @@ files {
 loadscreen 'dist/index.html'
 
 loadscreen_cursor 'yes'
-loadscreen_manual_shutdown 'yes'
+--loadscreen_manual_shutdown 'yes'
